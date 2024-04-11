@@ -1,4 +1,4 @@
-# Ersilia -- GDI Data for Good Hackathon
+# :pill: Ersilia -- GDI Data for Good Hackathon :rocket:
 
 
 The repository for Hackathon related information!
@@ -7,27 +7,36 @@ The repository for Hackathon related information!
 add table of contents
 --->
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Problem Statement](#problem-statement)
-3. [Dataset](#dataset)
-4. [Expectations](#expectations)
-5. [Judging Criteria](#judging-criteria)
-6. [GDI Hackathon: Format](#gdi-hackathon-format)
+## :pushpin: Table of Contents
+- [:sunny: Overview](#sunny-overview)
+- [:calendar: Key Dates](#calendar-key-dates)
+- [:link: Key Links](#link-key-links)
+- [:dart: Problem Statement](#dart-problem-statement)
+- [:bar_chart: Dataset](#bar_chart-dataset)
+- [:sparkles: Expectations](#sparkles-expectations)
+- [:trophy: Judging Criteria](#trophy-judging-criteria)
+- [:computer: GDI Hackathon: Format](#computer-gdi-hackathon-format)
+- [:busts_in_silhouette: Teams](#busts_in_silhouette-teams)
 
 
 
-## Overview
+## :sunny: Overview
 
 This repository contains the data and code for the Ersilia Hackathon. The goal of the hackathon is to use data to help Ersilia, a non-profit organization, better understand the needs of their clients and improve their services.
 
-## Key Dates
+## :calendar: Key Dates
 - **Kick-off Call**: Monday, 20th May 2024
 - **Midpoint Check-in**: Tuesday, 18th June 2024
 - **Presentation**: Tuesday, 9th July 2024
 
+## :link: Key Links
+- [Ersilia Hackathon Slack Channel](https://gooddatainstitute.slack.com/archives/C06TSFXQA58)
+- [Ersilia Website](https://ersilia.io/)
+- [Hackathon Kick-off Call Slides](www.canva.com)
+- [Ersilia GitHub](https://github.com/ersilia-os)
 
-## Problem Statement
+
+## :dart: Problem Statement
 
 ### Background
 Ersilia is a nonprofit organisation focused on lowering the barrier to drug development by providing computational tools for open-source drug discovery. The organisation specialises in building and deploying hundreds of predictive models for target profiling, drug repurposing, and safety evaluations, focusing strongly on neglected tropical diseases that affect the global south.
@@ -42,7 +51,7 @@ The challenge is three-fold:
 - Content database (spreadsheets) compiling publications, code repositories, funding raised, etc. No automated dashboard is available.
 - For global health statistics such as disease burden or investment on R&D in the global south, Ersilia manually searches the scientific literature.
 
-## Dataset
+## :bar_chart: Dataset
 The datasets involved will include:
 
 ### Internal spreadsheets detailing:
@@ -53,21 +62,21 @@ The datasets involved will include:
 - Main scientific projects, their status, and region of impact.
 
 ### Externally available datasets are recommended to broaden the scope of the impact reporting, such as:
-- WHO Global Health Data.
-- Our World In Data.
+- [WHO Global Health Data.](https://www.who.int/data/gho)
+- [Our World In Data.](https://ourworldindata.org/)
 
-## Expectations
+## :sparkles: Expectations 
 - Defining and calculating crucial impact metrics for Ersilia.
 - Developing automation scripts to collect and process these metrics efficiently.
 
 ### Suggested recommendation topics and ideas: 
 - A memo outlining the definition of each metric (with a “glossary”).
 - A live dashboard that Ersilia can present said metrics to prospective funders, donors, and the general public.
-- Focus on the UN's Sustainable Development Goals (SDG).
-- Automation workflows, ideally in GitHub Actions, to collect information from external resources.
+- [Focus on the UN's Sustainable Development Goals (SDG).](https://sdgs.un.org/goals)
+- Automation workflows, ideally in [GitHub Actions](https://github.com/features/actions), to collect information from external resources.
 
 
-## Judging Criteria
+## :trophy: Judging Criteria 
 
 ### Practical/Actionable Insights (40%)
 - Covered a range of relevant considerations with rigour, thoughtfulness.
@@ -84,7 +93,7 @@ The datasets involved will include:
 ### Creativity/Originality (10%)
 - Applied a new, different, and creative approach, pushing beyond the obvious.
 
-## GDI Hackathon: Format
+## :computer: GDI Hackathon: Format 
 
 The hackathon is an open-ended format - unlike a traditional GDI project with clearly defined scope and deliverables, in the Hackathon, we want you to flex your data-science muscles and show us what impact you’re able to have!
 
@@ -92,9 +101,10 @@ We find that everyone will approach the challenge in different ways. This is val
 
 In terms of tools, anything goes! We have found in hackathons that people take this in different directions because they have different skill sets. Some of you will have a business intelligence background and skills in dashboarding segmentation. Others will have come from more technical backgrounds and have skills in data engineering, modelling, cloud, etc. Use what makes the most sense to you and leverage your team's strengths!
 
-The main source of news/announcements and other updates throughout the Hackathon will be via the GDI Slack Channel titled `#hackathon_ersilia`. If you have any questions feel free to shoot them in this Slack channel or directly reach out to Berta, Shakeel or Vivek.
+The main source of news/announcements and other updates throughout the Hackathon will be via the GDI Slack Channel titled [#hackathon_ersilia](https://gooddatainstitute.slack.com/archives/C06TSFXQA58). If you have any questions feel free to shoot them in this Slack channel or directly reach out to Berta, Shakeel or Vivek.
 
 This channel will be an open forum to bounce ideas around and ask questions (please don’t hold back!).
 
-## Teams
+## :busts_in_silhouette: Teams
+
 
