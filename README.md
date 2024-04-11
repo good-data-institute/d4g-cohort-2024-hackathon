@@ -1,5 +1,11 @@
 # :pill: Ersilia -- GDI Data for Good Hackathon :rocket:
 
+<!---
+Add banner 
+--->
+
+<img src="2024 Hackathon Banner.png"><img>
+
 
 The repository for Hackathon related information!
 
