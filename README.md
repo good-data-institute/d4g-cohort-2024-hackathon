@@ -63,9 +63,8 @@ The datasets involved will include:
 ### Internal spreadsheets detailing:
 - [Code repositories](data/ersilia/repositories.csv), contributions, and activity. This includes the [models](data/ersilia/models.csv) developed and other tools of interest to drug discovery.
 - [Scientific publications](data/ersilia/publications.csv) and [blogposts](data/ersilia/blogposts.csv) detailing outreach activities.
-- Community members, with a focus on mentorship in the global south.
-- Events and presentations, including capacity-building workshops.
-- Main scientific projects, their status, and region of impact.
+- [Community members](data/ersilia/community.csv), with a focus on mentorship in the global south.
+- [Events](data/ersilia/events.csv) and presentations, including capacity-building workshops.
 
 ### Externally available datasets are recommended to broaden the scope of the impact reporting, such as:
 - [WHO Global Health Data.](https://www.who.int/data/gho)
