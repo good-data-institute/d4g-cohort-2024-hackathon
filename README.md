@@ -116,4 +116,9 @@ This channel will be an open forum to bounce ideas around and ask questions (ple
 
 ## :busts_in_silhouette: Teams
 
+Team 1: Caitlin Westney (C), Kevin Beeson, Yashodhya Wijesinghe, Sash Gowrieswaran, Praneeth Saturi, Victor Zhen Zhuang; Mentor: **Shivanka**
+Team 2: Pradeep Jones (C), Tania Sadhani, Ojas Pradhan, Stephanie McDonald, Zoren Liu, Ankita Singh; Mentor: **Eleanor M**
+Team 3: Devika Prasad (C), Tina Mu, Nam Hung Ngu, Callum Lee, James Baker, Keshav Prasath Asaithambi; Mentor: **Dave C**
+Team 4: Harshil Shah (C), Helen Liang, Uesi Unasa, Olga Shabalina, Haley Hutchins, Lara Najim; Mentor: **Alistair W**
+
 
