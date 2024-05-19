@@ -38,7 +38,7 @@ This repository contains the data and code for the Ersilia Hackathon. The goal o
 ## :link: Key Links
 - [Ersilia Hackathon Slack Channel](https://gooddatainstitute.slack.com/archives/C06TSFXQA58)
 - [Ersilia Website](https://ersilia.io/)
-- [Hackathon Kick-off Call Slides](www.canva.com)
+- [Hackathon Kick-off Call Slides]([www.canva.com](https://www.canva.com/design/DAGESoyjP-w/6wsaJE6Q_K9ilqHYp4x40w/edit))
 - [Ersilia GitHub](https://github.com/ersilia-os)
 - [GDI <> Ersilia Project Blog]([https://github.com/ersilia-os](https://www.gooddatainstitute.com/post/pipeline-dreams-smiles-all-around-as-mlops-boosts-drug-discovery))
 
