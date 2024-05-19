@@ -38,9 +38,9 @@ This repository contains the data and code for the Ersilia Hackathon. The goal o
 ## :link: Key Links
 - [Ersilia Hackathon Slack Channel](https://gooddatainstitute.slack.com/archives/C06TSFXQA58)
 - [Ersilia Website](https://ersilia.io/)
-- [Hackathon Kick-off Call Slides]([www.canva.com](https://www.canva.com/design/DAGESoyjP-w/6wsaJE6Q_K9ilqHYp4x40w/edit))
+- [Hackathon Kick-off Call Slides](https://www.canva.com/design/DAGESoyjP-w/6wsaJE6Q_K9ilqHYp4x40w/edit)
 - [Ersilia GitHub](https://github.com/ersilia-os)
-- [GDI <> Ersilia Project Blog]([https://github.com/ersilia-os](https://www.gooddatainstitute.com/post/pipeline-dreams-smiles-all-around-as-mlops-boosts-drug-discovery))
+- [GDI <> Ersilia Project Blog](https://www.gooddatainstitute.com/post/pipeline-dreams-smiles-all-around-as-mlops-boosts-drug-discovery)
 
 
 
@@ -118,9 +118,15 @@ This channel will be an open forum to bounce ideas around and ask questions (ple
 
 ## :busts_in_silhouette: Teams
 
-Team 1: Caitlin Westney (C), Kevin Beeson, Yashodhya Wijesinghe, Sash Gowrieswaran, Praneeth Saturi, Victor Zhen Zhuang; Mentor: **Shivanka**
-Team 2: Pradeep Jones (C), Tania Sadhani, Ojas Pradhan, Stephanie McDonald, Zoren Liu, Ankita Singh; Mentor: **Eleanor M**
-Team 3: Devika Prasad (C), Tina Mu, Nam Hung Ngu, Callum Lee, James Baker, Keshav Prasath Asaithambi; Mentor: **Dave C**
-Team 4: Harshil Shah (C), Helen Liang, Uesi Unasa, Olga Shabalina, Haley Hutchins, Lara Najim; Mentor: **Alistair W**
+|                | Team 1                                                      | Team 2                                                   | Team 3                                                       | Team 4                                                    |
+|----------------|-------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------|
+| **Captain**    | Caitlin Westney (C)                                          | Pradeep Jones (C)                                         | Devika Prasad (C)                                            | Harshil Shah (C)                                          |
+| **Members**    | Kevin Beeson                                                 | Tania Sadhani                                             | Tina Mu                                                      | Helen Liang                                               |
+|                | Yashodhya Wijesinghe                                         | Ojas Pradhan                                              | Nam Hung Ngu                                                 | Uesi Unasa                                                |
+|                | Sash Gowrieswaran                                            | Stephanie McDonald                                         | Callum Lee                                                   | Olga Shabalina                                            |
+|                | Praneeth Saturi                                              | Zoren Liu                                                 | James Baker                                                  | Haley Hutchins                                            |
+|                | Victor Zhen Zhuang                                           | Ankita Singh                                              | Keshav Prasath Asaithambi                                    | Lara Najim                                                |
+| **Mentor**     | **Shivanka**                                                 | **Eleanor M**                                             | **Dave C**                                                   | **Alistair W**                                            |
+
 
 
