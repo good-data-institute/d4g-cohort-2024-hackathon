@@ -73,7 +73,7 @@ The datasets involved will include:
 - [Our World In Data.](https://ourworldindata.org/)
 - [Open Alex.](https://openalex.org/)
 
-### Workflows used by Ersilia to collect internal these stats for inspiration
+### Workflows used by Ersilia to collect internal stats, for inspiration
 - Ersilia Stats [repository.](https://github.com/ersilia-os/ersilia-stats)
 
 ## :sparkles: Expectations 
