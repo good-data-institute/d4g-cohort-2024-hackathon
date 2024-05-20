@@ -88,6 +88,7 @@ The datasets involved will include:
 
 ## :hourglass_flowing_sand: Mid-point check in 
 - For the mid-point check in, be ready to share your answers (<5 mins) with the group
+- No slides are required :smile:
 
 1. What have we achieved so far?
 2. What are the next steps?
