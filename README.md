@@ -32,7 +32,7 @@ This repository contains the data and code for the Ersilia Hackathon. The goal o
 
 ## :calendar: Key Dates
 - **Kick-off Call**: Monday, 20th May 2024
-- **Midpoint Check-in**: Tuesday, 18th June 2024
+- **Midpoint Check-in**: Monday, 17th June 2024
 - **Presentation**: Tuesday, 9th July 2024
 
 ## :link: Key Links
