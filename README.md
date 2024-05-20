@@ -86,6 +86,14 @@ The datasets involved will include:
 - [Focus on the UN's Sustainable Development Goals (SDG).](https://sdgs.un.org/goals)
 - Automation workflows, ideally in [GitHub Actions](https://github.com/features/actions), to collect information from external resources.
 
+## :hourglass_flowing_sand: Mid-point check in 
+- For the mid-point check in, be ready to share your answers (<5 mins) with the group
+
+1. What have we achieved so far?
+2. What are the next steps?
+3. What questions do you have for Miquel and Dhanshree? -- We'll note down everyone's questions and have Miquel and Dhanshree answer them at the end :smile:
+4. What's been your biggest success so far?
+5. And biggest a challenge?
 
 ## :trophy: Judging Criteria 
 
